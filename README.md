@@ -54,8 +54,10 @@
 ![image](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file icons -->
 
-## Contacts:
+## How to reach me:
 `[todo: fill contacts ]`
+
+## &nbsp;
 
 <a href="https://github.com/uunnxx">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uunnxx&show_icons=true&theme=radical" />
@@ -74,7 +76,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
